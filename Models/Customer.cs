@@ -1,0 +1,1 @@
+﻿public record Customer(string Id, string Name);
